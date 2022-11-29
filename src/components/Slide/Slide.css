@@ -1,0 +1,50 @@
+.picture{
+    height: max-content;
+    width: 100%;
+    padding: 0px;
+    height: 100%;
+    padding-top: 10px;
+    position: relative;
+}
+body{
+    margin: 0px;
+    margin-top: 10px;
+    /* display:grid; */
+    width: 100%;
+    padding: 0px;
+}
+.days{
+    display: flex;
+    position: relative;
+    color: #ffae00;
+    font-weight: 800;
+    margin-top: -500px;
+    margin-left: 90px;
+}
+.text{
+    text-decoration: underline;
+}
+p{
+    padding-left: 10px;
+}
+h1{
+    color: white;
+    position: relative;
+    margin-left: -900px;
+}
+li{
+    display: flex;
+}
+.orangebutton{
+    background-color: orange;
+    margin-left: 30px;
+    border: #ffae00;
+}
+.button{
+    display: flex;
+    margin-left:30px ;
+}
+.color{
+    color: white;
+    position: relative;
+}
